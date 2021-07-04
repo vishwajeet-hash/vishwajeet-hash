@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vishwajeet-hash
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on open source webdev projects
-- 📫 How to reach me 
+- 📫 How to reach me-> [Linkedin](www.linkedin.com/in/vishwajeet01)
 
 <!---
 vishwajeet-hash/vishwajeet-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
