@@ -2,6 +2,10 @@
   Hi there 👋 I'm VISHWAJEET SINGH 👨‍💻
 </h1>
 
+<p align='center'>
+  A full stack web developer enthusiast from Jharkhand, India.
+</p>
+
 <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hash&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
