@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A full stack web developer enthusiast from Jharkhand, India.
+  A mern stack web developer enthusiast from Jharkhand, India.
 </p>
 
 <p align='center'>
