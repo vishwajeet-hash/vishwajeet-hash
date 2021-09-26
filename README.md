@@ -1,4 +1,6 @@
 <img src="https://github.com/vishwajeet-hash/vishwajeet-hash/blob/main/VISHWAJEET%20SINGH.png" />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeet-hash.vishwajeet-hash">
  
 <h1 align='center'>
   Hi there 👋 I'm VISHWAJEET SINGH 👨‍💻
