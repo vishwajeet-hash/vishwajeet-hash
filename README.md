@@ -57,7 +57,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hash&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/vishwajeet-hash/Classroom-assistant" title="Classroom-assistant"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vishwajeet-hash/HnCC-Admin" title="HnCC-Admin"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/vishwajeet-hash/Classroom-assistant" title="Classroom-assistant"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-hash&repo=Classroom-assistant&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vishwajeet-hash/HnCC-Admin" title="HnCC-Admin"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-hash&repo=HnCC-Admin&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
