@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
+<h5 align='center'>
   Tech stacks i am inquisitive and working on:
-</p>
+</h5>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
