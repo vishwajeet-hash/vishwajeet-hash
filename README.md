@@ -6,9 +6,9 @@
   Hi there 👋 I'm VISHWAJEET SINGH 👨‍💻
 </h1>
 
-<p align='center'>
+<h5 align='center'>
   A mern stack web developer enthusiast from Jharkhand, India.
-</p>
+</h5>
 
 <p align='center'>
   
