@@ -30,7 +30,7 @@
 </p>
 
 <h5 align='center'>
-  Tech stacks i am inquisitive and working on:
+  Tech stacks that i have worked on:
 </h5>
 
 <p>
