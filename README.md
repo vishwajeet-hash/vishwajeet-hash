@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align='center'>
-  A mern stack web developer enthusiast from Jharkhand, India.
+  A mern stack web developer from Jharkhand, India.
 </h5>
 
 <p align='center'>
