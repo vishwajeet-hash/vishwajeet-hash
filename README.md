@@ -59,7 +59,7 @@
 
 🌱 **Profile Views** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/vishwajeet-hash/count.svg?align=center)
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hash&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
