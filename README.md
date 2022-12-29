@@ -30,7 +30,7 @@
   <h2 align='center'>
   💻 My workspace
   </h2>
-  <br/><br/>
+  
   <p align='center'>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
