@@ -6,9 +6,9 @@
   Hi there 👋 I'm VISHWAJEET SINGH 👨‍💻
 </h1>
 
-<h5 align='center'>
+<h1 align='center'>
   A mern stack web developer from Jharkhand, India.
-</h5>
+</h1>
 
 <p align='center'>
   
@@ -28,16 +28,18 @@
 [![An image of @vishwajeet_singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwajeet_singh)](https://holopin.io/@vishwajeet_singh)
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  <h2>
+  💻 My workspace
+  </h2><br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<h5 align='center'>
+<h2 align='center'>
   Tech stacks that i have worked on:
-</h5>
+</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
