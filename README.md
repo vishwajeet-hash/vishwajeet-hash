@@ -21,6 +21,12 @@
   
 </p>
 
+<h1 align='center'>
+  My Holopin Board🚀
+</h1>
+
+[![An image of @vishwajeet_singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwajeet_singh)](https://holopin.io/@vishwajeet_singh)
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
