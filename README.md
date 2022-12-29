@@ -26,15 +26,14 @@
 </h1>
 
 [![An image of @vishwajeet_singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwajeet_singh)](https://holopin.io/@vishwajeet_singh)
-
-<p align='center'>
  
   <h2 align='center'>
   💻 My workspace
   </h2>
   <br/><br/>
+  <p>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   
